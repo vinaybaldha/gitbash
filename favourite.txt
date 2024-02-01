@@ -4,3 +4,4 @@ jam
 avengers
 spiderman
 javan
+pathan
